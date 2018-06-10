@@ -1,5 +1,5 @@
 # NYC-Taxi-Trip-Analysis-and-Predictions
-Explore New York Taxi Trip records in 2015, making visualizations, predict trip duration and fare prediction.
+Explore New York Taxi Trip records in 2015, making visualizations, predict trip duration (ETA) and fare.
 
 # Dataset
 - [NYC Yellow Taxi 2015 sample data](https://www.kaggle.com/edwinytleung/nyc-yellow-taxi-2015-sample-data)
