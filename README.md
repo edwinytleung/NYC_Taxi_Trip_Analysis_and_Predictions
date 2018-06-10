@@ -1,5 +1,5 @@
 # NYC-Taxi-Trip-Analysis-and-Predictions
-Explore New York Taxi Trip records in 2015
+Explore New York Taxi Trip records in 2015, making visualizations, predict trip duration and fare prediction.
 
 # Dataset
 - [NYC Yellow Taxi 2015 sample data](https://www.kaggle.com/edwinytleung/nyc-yellow-taxi-2015-sample-data)
@@ -15,5 +15,10 @@ Explore New York Taxi Trip records in 2015
 
 I have uploaded the train and test dataset with geodesic distance calculated by library geopy (from the coordinates in the dataset) to save up the time for calculation. [Notebook for using the geopy library](https://github.com/edwinytleung/NYC-Taxi-Trip-Analysis-and-Predictions/blob/master/Calculate%20distance%20using%20Geopy%20function.ipynb)
 
+- Weather - Extracted daily weather features, e.g. Rainfall, snowfall, etc.
+
 **Showing anomalies**
 - [Notebook link](https://github.com/edwinytleung/NYC-Taxi-Trip-Analysis-and-Predictions/blob/master/Anomalies.ipynb)
+
+**Main Notebook**
+- [Notebook link](https://github.com/edwinytleung/NYC-Taxi-Trip-Analysis-and-Predictions/blob/master/Taxi.ipynb)
