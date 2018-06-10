@@ -22,3 +22,10 @@ I have uploaded the train and test dataset with geodesic distance calculated by 
 
 **Main Notebook**
 - [Notebook link](https://github.com/edwinytleung/NYC-Taxi-Trip-Analysis-and-Predictions/blob/master/Taxi.ipynb)
+
+# Pre-trained models
+
+- kmeans_clf.pkl - kmeans classifier
+- lightgbm_rgr.pkl - lightgbm trip duration regressor
+- lightgbm_fare_rgr.pkl - lightgbm fare regressor
+- keras_taxi.h5 - deep learning model for trip duration prediction
