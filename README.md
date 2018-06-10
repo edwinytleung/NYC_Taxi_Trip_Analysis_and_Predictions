@@ -15,7 +15,7 @@ Explore New York Taxi Trip records in 2015, making visualizations, predict trip 
 
 I have uploaded the train and test dataset with geodesic distance calculated by library geopy (from the coordinates in the dataset) to save up the time for calculation. [Notebook for using the geopy library](https://github.com/edwinytleung/NYC-Taxi-Trip-Analysis-and-Predictions/blob/master/Calculate%20distance%20using%20Geopy%20function.ipynb)
 
-- Weather - Extracted daily weather features, e.g. Rainfall, snowfall, etc.
+- Weather 2015.csv - Daily weather features, e.g. Rainfall, snowfall, etc. [csv link](https://github.com/edwinytleung/NYC-Taxi-Trip-Analysis-and-Predictions/blob/master/Weather%202015.csv)
 
 **Showing anomalies**
 - [Notebook link](https://github.com/edwinytleung/NYC-Taxi-Trip-Analysis-and-Predictions/blob/master/Anomalies.ipynb)
